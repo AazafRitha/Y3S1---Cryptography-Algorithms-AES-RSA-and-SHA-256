@@ -20,8 +20,8 @@ The algorithms were selected based on modern relevance, academic importance, and
 
 ## 2. Group Members and Contributions
 
-| Name | IT Number | Contribution |
-|------|------------|--------------|
+| Name | Contribution |
+|------|--------------|
 | J. Aazaf Ritha | Coordinated the project, implemented AES encryption/decryption, testing, and report integration |
 | S. M. F. Hana | Implemented RSA algorithm, conducted RSA testing, and performance analysis |
 | M. F. M. Farhan | Developed SHA-256 hashing and HMAC, performed integrity verification and analysis |
