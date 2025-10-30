@@ -22,11 +22,11 @@ The algorithms were selected based on modern relevance, academic importance, and
 
 | Name | IT Number | Contribution |
 |------|------------|--------------|
-| J. Aazaf Ritha | IT23151710 | Coordinated the project, implemented AES encryption/decryption, testing, and report integration |
-| S. M. F. Hana | IT23255142 | Implemented RSA algorithm, conducted RSA testing, and performance analysis |
-| M. F. M. Farhan | IT23422070 | Developed SHA-256 hashing and HMAC, performed integrity verification and analysis |
-| H. M. S. H. Wijerathna | IT23306936 | Assisted in RSA key generation and visualization of performance results |
-| R. M. T. P. Rasnayake | IT23246546 | Supported AES testing, debugging, and code refinement |
+| J. Aazaf Ritha | Coordinated the project, implemented AES encryption/decryption, testing, and report integration |
+| S. M. F. Hana | Implemented RSA algorithm, conducted RSA testing, and performance analysis |
+| M. F. M. Farhan | Developed SHA-256 hashing and HMAC, performed integrity verification and analysis |
+| H. M. S. H. Wijerathna | Assisted in RSA key generation and visualization of performance results |
+| R. M. T. P. Rasnayake | Supported AES testing, debugging, and code refinement |
 
 ---
 
